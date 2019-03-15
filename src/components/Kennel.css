@@ -1,0 +1,25 @@
+.kennel {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.locations{
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.animals{
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.employees{
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.owners{
+    margin-top: 50px;
+    margin-left: 25px;
+}

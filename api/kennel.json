@@ -1,0 +1,106 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts",
+      "locationId": 1
+    },
+    {
+      "name": "Steven Stanley",
+      "id": 5,
+      "locationId": 2
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "animals": [
+    {
+      "name": "Ta",
+      "breed": "Husky",
+      "employeeId": 5,
+      "id": 6
+    },
+    {
+      "name": "Doodles",
+      "breed": "Poodle",
+      "employeeId": 2,
+      "id": 7
+    },
+    {
+      "name": "Jack",
+      "breed": "Bulldog",
+      "employeeId": 3,
+      "id": 8
+    },
+    {
+      "name": "Angus",
+      "breed": "Maltice",
+      "employeeId": 1,
+      "id": 9
+    },
+    {
+      "name": "Henley",
+      "breed": "Bichon Frise",
+      "employeeId": 4,
+      "id": 10
+    },
+    {
+      "name": "Derkins",
+      "breed": "Retriever",
+      "employeeId": 2,
+      "id": 11
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Jan Smith",
+      "phoneNumber": "185-698-5564"
+    },
+    {
+      "id": 2,
+      "name": "Jerry Young",
+      "phoneNumber": "456-852-9456"
+    },
+    {
+      "id": 3,
+      "name": "Jennifer Williams",
+      "phoneNumber": "856-996-3359"
+    },
+    {
+      "id": 4,
+      "name": "Jill Zipp",
+      "phoneNumber": "789-458-9635"
+    },
+    {
+      "name": "Jerry Gergich",
+      "phoneNumber": "456-487-4569",
+      "id": 5
+    }
+  ]
+}
